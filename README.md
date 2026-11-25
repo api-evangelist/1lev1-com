@@ -66,7 +66,7 @@
 
 1💗1 is a Hebrew‑language platform that enables collaborative partnerships without a boss or initial capital. It lets users create open tasks, share resources, log hours, make consensus decisions, and transparently split profits according to each participant’s contribution. The service focuses on partnership weaving (“רקמת שותפים”) to foster fair economic outcomes.
 
-**Areas:** collaboration · partnership · profit-sharing · open-source · Hebrew
+**Areas:** Collaboration · Partnership · Profit Sharing · Open Source · Hebrew
 
 ## 1💗1 on APIs.io
 
@@ -76,11 +76,17 @@ Everything profiled for 1💗1 is published on APIs.io rather than in this repos
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [1lev1-com-mcp.yml](https://apis.io/servers/1lev1-com/1lev1-com-mcp-yml/)
+
 #### Security (1)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [1Lev1 Com Domain Security](https://apis.io/security/1lev1-com/1lev1-com-domain-security/)
+- [1💗1 Domain Security](https://apis.io/security/1lev1-com/1lev1-com-domain-security/)
 
 ## Where to find this API
 
@@ -93,7 +99,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 12.0** — emerging · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 11.1** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
@@ -102,9 +108,9 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 11.9 |
-| Access clarity | 23.7 |
+| Access clarity | 23.4 |
 
-**Agent readiness 21.8** — agent-aware
+**Agent readiness 21.7** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -129,8 +135,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 15.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 9.8** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/1lev1-com/](https://apis.io/providers/1lev1-com/).
 
